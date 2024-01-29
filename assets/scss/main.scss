@@ -12,3 +12,8 @@ $bg: hsl(212, 45%, 89%);
 html {
   background-color: $bg;
 }
+
+.attribution { 
+  font-size: 11px; text-align: center;
+  color: hsl(228, 45%, 44%); 
+}

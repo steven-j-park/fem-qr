@@ -4,6 +4,11 @@
     <h3>Improve your front-end skills by building projects</h3>
     <h4>Scan the QR code to visit Frontend Mentor and take your coding skils to the next level</h4>
   </div>
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Steven Park</a>.
+  </div>
 </template>
 
 <style lang="scss">
