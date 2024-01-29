@@ -2,6 +2,7 @@
 
 
 Built with Nuxtjs for the [FrontEndMentor QR Code Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
 See the fully built project [here](https://spark-fem-qr.netlify.app/).
 
 ## Setup
