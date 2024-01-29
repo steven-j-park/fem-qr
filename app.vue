@@ -45,6 +45,7 @@ h4 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  filter: drop-shadow(0 10px 5px grey);
 
   img {
     width: 100%;
